@@ -1,14 +1,15 @@
-# Hey there!👋
+![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/50a62829-2f43-46cd-8266-16931177ac86)![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/6d2143e4-cbd6-46ca-876d-fe126aad0005)# Hey there!👋
 **I am Maotechh** - A developer who loves making fun stuffs! 
-**Hatsune Miku is my Waifu ^u^**  
   
 I am enthusiastic about:  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,arduino,c,cpp,css,docker,git,github,grafana,html,ps,py,vim" />
+    <img src="https://skillicons.dev/icons?i=arduino,docker,c,cpp,py,css,html,grafana,ps,ae,vim,git,github" />
   </a>
 </p>
 
+<details><summary>Hatsune Miku is my Waifu ^u^</summary>
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake-dark.svg">

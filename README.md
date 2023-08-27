@@ -1,4 +1,4 @@
-![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/50a62829-2f43-46cd-8266-16931177ac86)![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/6d2143e4-cbd6-46ca-876d-fe126aad0005)# Hey there!👋
+Hey there!👋
 **I am Maotechh** - A developer who loves making fun stuffs! 
   
 I am enthusiastic about:  
@@ -9,6 +9,7 @@ I am enthusiastic about:
 </p>
 
 <details><summary>Hatsune Miku is my Waifu ^u^</summary>
+  ![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/50a62829-2f43-46cd-8266-16931177ac86)![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/6d2143e4-cbd6-46ca-876d-fe126aad0005)# 
 </details>
 
 <picture>

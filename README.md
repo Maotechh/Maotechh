@@ -8,13 +8,11 @@ I am enthusiastic about:
   </a>
 </p>
 
-<details><summary>Hatsune Miku is my Waifu ^u^</summary>
-  ![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/50a62829-2f43-46cd-8266-16931177ac86)![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/6d2143e4-cbd6-46ca-876d-fe126aad0005)# 
-</details>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake.svg">
 </picture>
  
+**Hatsune Miku is my Waifu ^u^**
+  ![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/50a62829-2f43-46cd-8266-16931177ac86)![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/6d2143e4-cbd6-46ca-876d-fe126aad0005)# 

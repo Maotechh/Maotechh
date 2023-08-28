@@ -17,5 +17,4 @@ I am enthusiastic about:
  
 **Hatsune Miku is my Waifu ^u^**  
 
-<img src="[image.png](https://github.com/Maotechh/Maotechh/blob/main/Hatsune_miku_logo_v3.png?raw=true)
-" width="640" height="275">
+<img src="[Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/blob/main/Hatsune_miku_logo_v3.png)" width="640" height="275">

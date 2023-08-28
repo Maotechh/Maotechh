@@ -13,7 +13,7 @@ I am enthusiastic about:
   <img src="https://img.shields.io/badge/apple-222224?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-0A5AE7?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-1F81E8?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe-F40008?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/grafana-EF661E?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/ubuntu-E03D19?style=for-the-badge&logo=ubuntu&logoColor=white" />

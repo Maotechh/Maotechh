@@ -5,7 +5,7 @@
 I am enthusiastic about:  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,docker,c,cpp,py,css,html,grafana,ps,ae,vim,git,github" />
+    <img src="https://skillicons.dev/icons?i=arduino,docker,c,cpp,py,css,html,md,grafana,ps,ae,vim,git,github" />
   </a>
 </p>
 

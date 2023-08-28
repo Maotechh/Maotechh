@@ -16,4 +16,4 @@ I am enthusiastic about:
 </picture>
  
 **Hatsune Miku is my Waifu ^u^**
-  ![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/50a62829-2f43-46cd-8266-16931177ac86)![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/6d2143e4-cbd6-46ca-876d-fe126aad0005)# 
+  ![Hatsune_miku_logo_v3](https://github.com/Maotechh/Maotechh/assets/109655023/50a62829-2f43-46cd-8266-16931177ac86)![Hatsune_miku_logo_v3]

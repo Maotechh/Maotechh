@@ -15,7 +15,8 @@ I am enthusiastic about:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake.svg">
 </picture>
  
-**Hatsune Miku is my Waifu ^u^**
+**Hatsune Miku is my Waifu ^u^**  
+
 <img src="[image.png](https://raw.githubusercontent.com/Maotechh/Maotechh/main/Hatsune_miku_logo_v3.svg
 )https://raw.githubusercontent.com/Maotechh/Maotechh/main/Hatsune_miku_logo_v3.svg
 " width="320" height="138">

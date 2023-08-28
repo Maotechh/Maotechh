@@ -25,8 +25,8 @@ I am enthusiastic about:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Maotechh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maotechh&show_icons=true&theme=radical)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maotechh&layout=compact)
+
 **Hatsune Miku is my Waifu ^u^**  
 
 <img src="https://github.com/Maotechh/Maotechh/blob/main/Hatsune_miku_logo_v3.png" width="160" height="68.75" />

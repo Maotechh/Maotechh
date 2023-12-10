@@ -2,7 +2,7 @@
 ## **I am Maotechh** - A developer who loves making fun stuffs!   
 
    
-I am enthusiastic about:  
+**I am enthusiastic about:**    
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,docker,c,cpp,py,css,html,md,grafana,ps,ae,vim,git,github" />

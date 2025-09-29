@@ -1,8 +1,8 @@
 # Hey there!👋  
 ## **I am Maotechh** - A developer who loves making fun stuffs!   
 **I'm currently:**  
-- President of **[GeekPie_ Association](https://github.com/ShanghaitechGeekPie/)**  
-- Pursuing B.E. degree in Computer Science at **ShanghaiTech University**  
+- 🪑 President of **[GeekPie_ Association](https://github.com/ShanghaitechGeekPie/)**  
+- 🎓 Pursuing B.E. degree in Computer Science at **ShanghaiTech University**  
    
 **I am enthusiastic about:**    
 <p align="center">

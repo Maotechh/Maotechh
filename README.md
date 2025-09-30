@@ -73,7 +73,7 @@
 ## 🧠 Fun & Misc
 - **Hatsune Miku** is my Waifu. 🎶 ❤️
 - What I do: **PCB design** (EasyEDA / 嘉立创EDA), **ESP/nRF series firmware**, **small robots**, **video production** (Final Cut Pro / After Effects), **VOCALOID music production** (FL Studio / Synthesizer V / CeVIO).
-- If you're interested in **Battery-free IoT / ESP32 projects / club collaboration**, feel free to create issues or PRs!
+- If you're interested in **Battery-free IoT / Embeded projects / club collaboration**, feel free to create issues or PRs!
 
 <p align="center">
   <img src="https://github.com/Maotechh/Maotechh/blob/main/Hatsune_miku_logo_v3.png" width="160" height="68.75" />

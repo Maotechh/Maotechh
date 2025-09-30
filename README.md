@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 - 🪑 President of **[GeekPie Association](https://github.com/ShanghaitechGeekPie/)**
 - 🎓 Pursuing B.E. degree in Computer Science at **[ShanghaiTech University](https://www.shanghaitech.edu.cn/)**
-- 🔬 Member of **[Metal Lab](https://metal.shanghaitech.edu.cn/)**
+- 🔬 Member of **[METAL Lab](https://metal.shanghaitech.edu.cn/)**
 - 🧩 Embedded-systems enthusiast — Love creating innovative gadgets with ESP / nRF Family / energy harvesting solutions
 - 🔭 Currently working on: **Battery-free IoT** and other fun stuff
 - 📚 Learning: Verilator / FPGA basics

@@ -36,14 +36,14 @@
 </p>
 
 ---
-
+<!--
 ## 🚀 Highlights / Selected Projects
 - Battery-free IoT concepts and prototypes — energy harvesting, ultra-low-power design
 - ESP32 line-following car and small robotics kits for club activities
 - GeekPie Association utility repos — organizers, tools, and event helpers
 - VEX V5 serial communication exploration and tooling
 
----
+--- -->
 
 ## 📈 GitHub Stats
 <p align="center">

@@ -47,8 +47,29 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maotechh&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maotechh&layout=compact&theme=radical" alt="Top languages" />
+
+  <!-- GitHub Stats -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Maotechh&show_icons=true&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Maotechh&show_icons=true&count_private=true&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Maotechh&show_icons=true&count_private=true&theme=default" alt="GitHub stats" />
+  </picture>
+
+  <!-- Top Languages -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Maotechh&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Maotechh&layout=compact&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maotechh&layout=compact&theme=default" alt="Top languages" />
+  </picture>
+
 </p>
 
 <p align="center">

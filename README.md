@@ -76,13 +76,10 @@
 ## ✉️ Contact
 
 <p align="center">
-  <a href="mailto:lihz2024@shanghaitech.edu.cn">lihz2024@shanghaitech.edu.cn</a>
-  <br><br>
-  <a href="https://maotechh.github.io/">Personal Site</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/ShanghaitechGeekPie/">GeekPie Association</a>
-  &nbsp;•&nbsp;
-  <a href="https://metal.shanghaitech.edu.cn/">METAL Lab</a>
+  <a href="mailto:lihz2024@shanghaitech.edu.cn"><img src="https://img.shields.io/badge/Email-Contact-005AA7?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://maotechh.github.io/"><img src="https://img.shields.io/badge/Website-maotechh.github.io-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Personal site" /></a>
+  <a href="https://github.com/ShanghaitechGeekPie/"><img src="https://img.shields.io/badge/GeekPie-Association-181717?style=flat-square&logo=github&logoColor=white" alt="GeekPie Association" /></a>
+  <a href="https://metal.shanghaitech.edu.cn/"><img src="https://img.shields.io/badge/METAL-Lab-0B7285?style=flat-square" alt="METAL Lab" /></a>
 </p>
 
 ---

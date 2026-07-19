@@ -1,69 +1,110 @@
-<h1 align="center">Hanze Li</h1>
+<h1 align="center">Hi there! 👋 I'm Maotechh</h1>
 
 <p align="center">
-  Undergraduate researcher at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a><br>
-  Building self-powered embedded systems, TinyML applications, and practical developer tools
+  <strong>Maker • Embedded systems researcher • Student @ ShanghaiTech</strong>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🪑 President of **[GeekPie Association](https://github.com/ShanghaitechGeekPie/)**
+- 🎓 Computer Science undergraduate at **[ShanghaiTech University](https://www.shanghaitech.edu.cn/)**
+- 🔬 Undergraduate research assistant at **[METAL Lab](https://metal.shanghaitech.edu.cn/)**
+- 🔋 Working on **self-powered embedded systems**, energy harvesting, and TinyML
+- 🧠 Also building a **LoongArch32 CPU in SpinalHDL** and bringing up Reduced Linux on FPGA
+- 🏆 Co-first author of the **Best Paper at IEEE ICPS 2026**
+- 🏷️ Open to research, open-source, competition, and club collaboration
+
+---
+
+## 🛠️ Tech & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,ubuntu,docker,git,github,vscode,md,latex" alt="Languages and development tools" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Maotechh"><img src="https://img.shields.io/badge/GitHub-Maotechh-181717?style=flat-square&logo=github" alt="GitHub profile"></a>
-  <a href="https://metal.shanghaitech.edu.cn/"><img src="https://img.shields.io/badge/METAL%20Lab-research-0b7285?style=flat-square" alt="METAL Lab"></a>
-  <a href="mailto:lihz2024@shanghaitech.edu.cn"><img src="https://img.shields.io/badge/Email-contact-2f6f9f?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/nRF54-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white" alt="nRF54" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Zephyr-5C2D91?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr" />
+  <img src="https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TinyML" />
+  <img src="https://img.shields.io/badge/SpinalHDL-E34F26?style=for-the-badge" alt="SpinalHDL" />
+  <img src="https://img.shields.io/badge/Vivado-FB8C00?style=for-the-badge&logo=amd&logoColor=white" alt="Vivado" />
 </p>
 
-## Focus
+---
 
-I work on embedded systems that have to operate under real energy and hardware constraints. My current interests are:
+## 🚀 Current & Selected Work
 
-- Energy harvesting and power management for battery-free IoT devices
-- Low-power firmware, sensor fusion, and BLE-enabled sensing
-- On-device inference with TinyML
-- PCB design, board bring-up, and measurement-driven validation
-- FPGA, Linux, and developer tools for engineering workflows
+- 🔋 **PEAK self-powered TinyML sensor:** nRF54L15 vibration sensing, on-device inference, BLE, and an energy-harvesting power board
+- ⚡ **Battery-free IoT energy management:** adaptive power-path and task scheduling research, awarded Best Paper at IEEE ICPS 2026
+- 🖥️ **NSCSCC 2026:** SpinalHDL CPU refactoring, LoongArch32 Reduced Linux bring-up, and FPGA validation
+- 📚 **[BetterEAMS](https://github.com/Maotechh/BetterEAMS):** a cleaner course-selection workspace for ShanghaiTech EAMS
+- 🧩 **[Vivado on Parallels ARM64](https://github.com/Maotechh/vivado-parallels-arm64-rosetta):** installer and compatibility tools for Vivado, XSim, and JTAG on Apple Silicon
+- 🔌 **[VEX Communication](https://github.com/Maotechh/VEX_communication):** connecting a VEX Brain V5 to Arduino, Raspberry Pi, or ESP32 over RS-485
+- 🧪 **[Lab Management Copilot](https://github.com/Maotechh/Lab-Management-Copilot):** laboratory inventory, natural-language stock operations, alerts, and preparation lists
 
-## Current work
+---
 
-- **Research assistant, METAL Lab:** self-powered systems and embedded TinyML
-- **President, GeekPie Association:** student technology society at ShanghaiTech University
-- **B.S. candidate in Computer Science:** ShanghaiTech University, 2024–present
-
-## Selected projects
-
-| Project | What it does |
-| --- | --- |
-| [Vivado Parallels ARM64 Rosetta](https://github.com/Maotechh/vivado-parallels-arm64-rosetta) | Installs and configures AMD Vivado on Ubuntu ARM64 in Parallels using Rosetta for Linux, including simulator and JTAG support. |
-| [BetterEAMS](https://github.com/Maotechh/BetterEAMS) | Tampermonkey userscript that turns ShanghaiTech course election pages into a more useful course workspace. |
-| [Lab Management Copilot](https://github.com/Maotechh/Lab-Management-Copilot) | MIT-licensed web application for laboratory consumables, inventory operations, alerts, and experiment preparation lists. |
-| [VEX Communication](https://github.com/Maotechh/VEX_communication) | Hardware and software notes for connecting a VEX Brain V5 to external controllers over RS-485. |
-| [nscscc-linux](https://github.com/Maotechh/nscscc-linux) | Ongoing workspace for LoongArch/Linux bring-up and FPGA experimentation. |
-
-## Research and awards
-
-- **Best Paper Award, IEEE ICPS 2026**, co-first author, for work on battery-free IoT energy management
-- **21st place, NCTF 2025**, top 2% among 1,046 teams, for reverse engineering and embedded-device security analysis
-- **First Prize, 39th Youth Science and Technology Innovation Contest**, for an environmental-monitoring prototype
-- **First Prize, 15th VEX Robotics Asia Open Championship**, as hardware, software, and control lead
-
-## Tools I use
-
-`C/C++` `Python` `Verilog` `SpinalHDL` `Node.js` `Typst` `LaTeX`
-
-`nRF54` `ESP32` `STM32` `Zephyr` `TensorFlow Lite Micro` `BLE` `Wi-Fi` `MQTT` `Linux` `PlatformIO` `Git` `Docker`
-
-## Contact
-
-- Email: [lihz2024@shanghaitech.edu.cn](mailto:lihz2024@shanghaitech.edu.cn)
-- Website: [maotechh.github.io](https://maotechh.github.io/)
-- For research, embedded systems, hardware, or software collaboration, please open an issue or start a discussion in a relevant repository.
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maotechh/Maotechh/main/Hatsune_miku_logo_v3.png" width="160" alt="Hatsune Miku logo">
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maotechh&theme=github_dark"
+      media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maotechh&theme=github"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maotechh&theme=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maotechh&theme=github_dark"
+      media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maotechh&theme=github"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maotechh&theme=github" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution activity" src="https://raw.githubusercontent.com/Maotechh/Maotechh/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+---
+
+## ✉️ Contact
+
+<p align="center">
+  <a href="mailto:lihz2024@shanghaitech.edu.cn"><img src="https://img.shields.io/badge/Email-lihz2024%40shanghaitech.edu.cn-005AA7?style=for-the-badge" alt="Email" /></a>
+  <a href="https://github.com/ShanghaitechGeekPie/"><img src="https://img.shields.io/badge/GeekPie-Association-181717?style=for-the-badge&logo=github&logoColor=white" alt="GeekPie Association" /></a>
+  <a href="https://metal.shanghaitech.edu.cn/"><img src="https://img.shields.io/badge/METAL-Lab-0B7285?style=for-the-badge" alt="METAL Lab" /></a>
+  <a href="https://maotechh.github.io/"><img src="https://img.shields.io/badge/Personal-Site-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal site" /></a>
+</p>
+
+---
+
+## 🧠 Fun & Misc
+
+- **Hatsune Miku** is my Waifu. 🎶 ❤️
+- I also enjoy **PCB design**, small robots, video production with Final Cut Pro / After Effects, and VOCALOID music production with FL Studio / Synthesizer V / CeVIO.
+- If you're interested in battery-free IoT, embedded projects, or club collaboration, feel free to open an issue or pull request.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maotechh/Maotechh/main/Hatsune_miku_logo_v3.png" width="160" alt="Hatsune Miku logo" />
+</p>
+
+---
+
+<p align="center">⭐ If you like what I do, give a ⭐ to any repository you find useful!</p>
+
+<p align="center">Maotechh</p>

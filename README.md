@@ -54,15 +54,6 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maotechh&theme=github_dark"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maotechh&theme=github"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maotechh&theme=github" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source
       srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maotechh&theme=github_dark"
       media="(prefers-color-scheme: dark)" />
     <source

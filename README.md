@@ -17,7 +17,7 @@ I like building complete systems: drawing the schematic, laying out and assembli
 
 - Building **[PEAK](https://maotechh.github.io/projects/peak.html)**, a self-powered TinyML sensor node and my main research project at [METAL Lab](https://metal.shanghaitech.edu.cn/). I am developing the hardware, firmware, and on-device inference myself.
 - Serving as President of **[GeekPie Association](https://github.com/ShanghaitechGeekPie/)** and leading its embedded hardware projects and activities.
-- Working with **Prof. Fei Fang at Carnegie Mellon University and WWF** on a wildlife-protection project. Details are private for now.
+- Independently developing a wildlife-protection project in collaboration with **Prof. Fei Fang at Carnegie Mellon University and WWF**.
 
 ## A few things I've built
 

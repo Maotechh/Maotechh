@@ -1,62 +1,93 @@
-<h1 align="center">Hanze Li</h1>
+<h1 align="center">Hi, I'm Hanze Li.</h1>
 
 <p align="center">
-  <strong>Embedded systems researcher and builder</strong><br />
-  Self-powered TinyML · Custom PCBs · CPU/FPGA/Linux · Vision control
+  Computer Science undergraduate and researcher at ShanghaiTech University<br />
+  Embedded hardware · Firmware · FPGA/Linux · TinyML · Computer vision
 </p>
 
 <p align="center">
-  <a href="mailto:lihz2024@shanghaitech.edu.cn">Email</a> ·
-  <a href="https://maotechh.github.io/">Website</a> ·
+  <a href="https://maotechh.github.io/">Portfolio</a> ·
   <a href="https://metal.shanghaitech.edu.cn/">METAL Lab</a> ·
   <a href="https://github.com/ShanghaitechGeekPie/">GeekPie Association</a>
 </p>
 
-<p align="center">
-  <strong>Best Paper @ IEEE ICPS 2026</strong> ·
-  <strong>Loongson Cup Second Prize</strong> (Captain) ·
-  <strong>TI Cup Shanghai First Prize</strong> (Captain)
-</p>
+I enjoy working on both sides of an embedded system: designing the board and
+firmware, then measuring and improving the complete device. I am an
+undergraduate research assistant at **METAL Lab** and President of the
+**GeekPie Association**.
 
-## About
+## Current research focus
 
-I am a Computer Science undergraduate at **ShanghaiTech University**, an undergraduate research assistant at **METAL Lab**, and President of the **GeekPie Association**, where I lead embedded hardware initiatives. I work across circuit and PCB design, embedded firmware, computer architecture, FPGA/Linux systems, computer vision, and on-device inference.
+### [PEAK Self-Powered TinyML Sensor Node](https://maotechh.github.io/projects/peak.html)
 
-## Selected Work
+PEAK is my main ongoing research project at METAL Lab. I am the **sole
+developer**, responsible for the complete prototype across energy-harvesting
+hardware, schematic and PCB design, assembly and bring-up, nRF54L15 firmware,
+on-device TinyML, BLE reporting, and evaluation software.
 
-- **PEAK Self-Powered TinyML Sensor Node** · *Sole developer and researcher*<br />
-  Independently developed the research prototype across custom hardware, PCB design and assembly, embedded firmware, on-device TinyML, BLE communication, and evaluation tooling. The power board reaches **172 nA quiescent current**; manuscript in preparation.
+The system demonstrates battery-free sensing and inference on independently
+developed hardware. Its power-management board reaches **172 nA measured
+quiescent current**. The research manuscript is in preparation.
 
-- **[MIKU LA32R Out-of-Order SoC](https://github.com/TossACoinTAC/NSCSCC2026-MIKU)** · *Captain / CPU & Linux*<br />
-  Led a four-member team to the **Loongson Cup Second Prize**. Optimized the four-issue SpinalHDL CPU and built the FPGA/Linux system, reaching **100 MHz** on Artix-7 with Linux 5.14 and Buildroot. [CPU development](https://github.com/Maotechh/nscscc-cpu) · [Linux kernel](https://github.com/Maotechh/nscscc-linux-kernel)
+## Other systems I've built
 
-- **Battery-Free IoT Energy Management** · *Co-first author*<br />
-  Developed a supply-demand model, adaptive power path, and task scheduler for photovoltaic IoT devices, reducing system power consumption by **60%**. The work received the **Best Paper Award at IEEE ICPS 2026**.
+- **[MIKU LA32R Out-of-Order SoC](https://github.com/TossACoinTAC/NSCSCC2026-MIKU)**
+  is a four-issue SpinalHDL CPU and FPGA/Linux system. I captained the
+  four-member GeekPie_ team, worked on CPU performance and timing, and brought
+  up Linux 5.14 on the final SoC. The project received the
+  **[2026 Loongson Cup Second Prize](https://www.nscscc.com/?p=946)**.
+  [CPU development](https://github.com/Maotechh/nscscc-cpu) ·
+  [Linux kernel](https://github.com/Maotechh/nscscc-linux-kernel)
 
-- **TI Cup Ball-Balancing Vehicle** · *Captain / Vision & Mechanical*<br />
-  Developed the CanMV K230 vision pipeline and integrated the mechanical system, reaching approximately **1 mm static error at 88.9 FPS** with STM32F407 closed-loop control.
+- **[TI Cup Ball-Balancing Vehicle](https://maotechh.github.io/projects/ti-cup.html)**
+  combined K230 vision, STM32F407 control, and a custom mechanical system. As
+  captain, I led the vision and mechanical work, reaching approximately
+  **1 mm static error at 88.9 FPS**. The project received
+  **[First Prize in the 2026 TI Cup Shanghai competition](https://nuedc-sh.sjtu.edu.cn/post_detail.php?id=61)**.
 
-- **Anti-Poaching Risk Mapping** · *Sole developer and researcher*<br />
-  Building a spatiotemporal patrol-priority system with **Prof. Fei Fang at Carnegie Mellon University and WWF**, including spatial evaluation, rolling backtests, and 200 m to 2 km risk-grid generation.
+- **[SparkLive](https://github.com/SkillfulPainter/Sparklive-Studio)** is a local
+  multimodal livestream system for NVIDIA DGX Spark. I worked on system
+  integration and local deployment across Qwen3.5, Whisper/VAD, FastAPI,
+  React, and CUDA media processing.
+  [Digital-human workspace](https://github.com/SkillfulPainter/Sparklive-Digital-Man)
 
-- **[SparkLive](https://github.com/SkillfulPainter/Sparklive-Studio)** · *Team developer / System integration*<br />
-  Co-developed a local multimodal streaming system for NVIDIA DGX Spark using Qwen3.5, Whisper/VAD, FastAPI, React, and CUDA media processing. The project received an **NVIDIA DGX Spark Hackathon Excellence Award**. [Digital-human workspace](https://github.com/SkillfulPainter/Sparklive-Digital-Man)
+## Research and collaborations
 
-## Technical Focus
+- I am co-first author of
+  **[Energy Management Design Guide for Self-powered Ambient IoT Devices](https://doi.org/10.1109/ICPS70486.2026.11567971)**,
+  published at IEEE ICPS 2026 and recognized with the
+  **[Best Paper Award](https://sist.shanghaitech.edu.cn/2026/0527/c2858a1123090/page.htm)**.
+  The paper develops a supply-demand model and design guidance for battery-free
+  IoT systems. [METAL Lab publication list](https://metal.shanghaitech.edu.cn/publication.htm)
 
-- **Hardware:** Schematic design · Multi-layer PCB layout · SMT · Board bring-up · Power-path management · Signal conditioning · 3D CAD
-- **Embedded:** C/C++ · nRF52/nRF54 · STM32 · ESP32 · K230 · Zephyr · BLE/Wi-Fi/MQTT
-- **Systems:** Scala/SpinalHDL · Verilog · LA32R/RISC-V/x86 assembly · FPGA/Vivado · Linux/Buildroot
-- **TinyML & vision:** TFLM · INT8 deployment · Feature extraction · CanMV · Python
+- I am independently developing a spatiotemporal decision-support system for
+  wildlife-protection patrol prioritization with **Prof. Fei Fang at Carnegie
+  Mellon University and WWF**. Project data and implementation details remain
+  private.
 
-## More Public Work
+## GeekPie
 
-[BetterEAMS](https://github.com/Maotechh/BetterEAMS) · [Vivado on Parallels ARM64](https://github.com/Maotechh/vivado-parallels-arm64-rosetta) · [VEX Communication](https://github.com/Maotechh/VEX_communication) ·
-[Lab Management Copilot](https://github.com/Maotechh/Lab-Management-Copilot)
+I have served as President of ShanghaiTech's **GeekPie Association** since
+September 2025. I lead the association's embedded hardware initiatives and
+work with members on MCU development, PCB design, board bring-up, workshops,
+shared laboratory resources, and engineering projects.
 
----
+## Other public projects
 
-Outside engineering, I enjoy Hatsune Miku, small robots, video production, and VOCALOID music production.
+- [BetterEAMS](https://github.com/Maotechh/BetterEAMS): a cleaner
+  course-selection workspace for ShanghaiTech EAMS.
+- [Vivado on Parallels ARM64](https://github.com/Maotechh/vivado-parallels-arm64-rosetta):
+  an installation workflow for AMD Vivado on ARM64 Ubuntu through Rosetta
+  emulation.
+- [VEX Communication](https://github.com/Maotechh/VEX_communication):
+  third-party communication tooling for the VEX V5 Brain.
+- [Lab Management Copilot](https://github.com/Maotechh/Lab-Management-Copilot):
+  a natural-language laboratory inventory and preparation assistant.
+
+## Outside engineering
+
+I enjoy Hatsune Miku, small robots, video production, and VOCALOID music
+production.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Maotechh/Maotechh/main/Hatsune_miku_logo_v3.png" width="110" alt="Hatsune Miku logo" />

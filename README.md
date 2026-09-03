@@ -25,7 +25,7 @@ I am a Computer Science undergraduate at **ShanghaiTech University**, an undergr
 ## Selected Work
 
 - **PEAK Self-Powered TinyML Sensor Node** · *Sole developer and researcher*<br />
-  Independently developed the research prototype across custom hardware, PCB design and assembly, embedded firmware, on-device TinyML, BLE communication, and evaluation tooling. Manuscript in preparation.
+  Independently developed the research prototype across custom hardware, PCB design and assembly, embedded firmware, on-device TinyML, BLE communication, and evaluation tooling. The power board reaches **172 nA quiescent current**; manuscript in preparation.
 
 - **[MIKU LA32R Out-of-Order SoC](https://github.com/TossACoinTAC/NSCSCC2026-MIKU)** · *Captain / CPU & Linux*<br />
   Led a four-member team to the **Loongson Cup Second Prize**. Optimized the four-issue SpinalHDL CPU and built the FPGA/Linux system, reaching **100 MHz** on Artix-7 with Linux 5.14 and Buildroot. [CPU development](https://github.com/Maotechh/nscscc-cpu) · [Linux kernel](https://github.com/Maotechh/nscscc-linux-kernel)

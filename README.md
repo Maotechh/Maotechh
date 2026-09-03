@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://maotechh.github.io/#contact">Contact</a> ·
   <a href="https://maotechh.github.io/">Portfolio</a> ·
   <a href="https://metal.shanghaitech.edu.cn/">METAL Lab</a> ·
   <a href="https://github.com/ShanghaitechGeekPie/">GeekPie Association</a>

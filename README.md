@@ -2,22 +2,23 @@
 
 <p align="center">
   Computer Science undergraduate and researcher at ShanghaiTech University<br />
-  I design embedded hardware and write the software that runs on it.
+  I study and build resource-constrained embedded systems across hardware, firmware, and on-device intelligence.
 </p>
 
 <p align="center">
   <a href="https://maotechh.github.io/#contact">Contact</a> ·
   <a href="https://maotechh.github.io/">Portfolio</a> ·
   <a href="https://metal.shanghaitech.edu.cn/">METAL Lab</a> ·
-  <a href="https://github.com/ShanghaitechGeekPie/">GeekPie Association</a>
+  <a href="https://geekpie.club/">GeekPie Association</a> ·
+  <a href="https://orcid.org/0009-0001-6922-0891">ORCID</a>
 </p>
 
-I like building complete systems: drawing the schematic, laying out and assembling the PCB, writing the firmware, and finding out what went wrong on the bench. Along the way, I also work with FPGA/Linux systems, TinyML, and computer vision.
+I like building complete systems: drawing the schematic, laying out and assembling the PCB, writing the firmware, and measuring the result on the bench. Along the way, I also work with FPGA/Linux systems, TinyML, computer vision, and computer architecture.
 
 ## These days
 
 - Building **[PEAK](https://maotechh.github.io/projects/peak.html)**, a self-powered TinyML sensor node and my main research project at [METAL Lab](https://metal.shanghaitech.edu.cn/). I am developing the hardware, firmware, and on-device inference myself.
-- Serving as President of **[GeekPie Association](https://github.com/ShanghaitechGeekPie/)** and leading its embedded hardware projects and activities.
+- Serving as President of **[GeekPie Association](https://geekpie.club/)** and leading its embedded hardware projects and activities.
 - Independently developing a wildlife-protection project in collaboration with **Prof. Fei Fang at Carnegie Mellon University and WWF**.
 
 ## A few things I've built
@@ -26,7 +27,7 @@ I like building complete systems: drawing the schematic, laying out and assembli
 - **[TI Cup Ball-Balancing Vehicle](https://maotechh.github.io/projects/ti-cup.html)** combines K230 vision, STM32F407 control, and a custom mechanical system. I was team captain and worked on the vision and mechanical integration.
 - **[SparkLive](https://github.com/SkillfulPainter/Sparklive-Studio)** is a local multimodal livestream project for NVIDIA DGX Spark. I captained the team and contributed to system integration and local deployment. [Digital-human workspace](https://github.com/SkillfulPainter/Sparklive-Digital-Man)
 
-I also co-authored [*Energy Management Design Guide for Self-powered Ambient IoT Devices*](https://doi.org/10.1109/ICPS70486.2026.11567971), which received the [Best Paper Award](https://sist.shanghaitech.edu.cn/2026/0527/c2858a1123090/page.htm) at IEEE ICPS 2026.
+I am a co-first author of [*Energy Management Design Guide for Self-powered Ambient IoT Devices*](https://doi.org/10.1109/ICPS70486.2026.11567971), which received the [Best Paper Award](https://sist.shanghaitech.edu.cn/2026/0527/c2858a1123090/page.htm) at IEEE ICPS 2026.
 
 ## Other public work
 
